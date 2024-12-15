@@ -15,4 +15,4 @@ This repository contains a shopping website built using the MERN stack. Please f
 3. From the app folder run ``npm run dev``
 
 
->[Deployment link] (https://shopplusplus-ecommerce.onrender.com/)
+>[Deployment link] (https://shopplusplus-ecommerce.onrender.com)
