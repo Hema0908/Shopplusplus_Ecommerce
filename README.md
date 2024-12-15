@@ -13,6 +13,7 @@ This repository contains a shopping website built using the MERN stack. Please f
 1. For admin login please use this email and password (email:- admin@admin.com password:- Admin1234)
 2. For forget passward(admin password) enter your favorite sport name - football.
 3. From the app folder run ``npm run dev``
+4. Client folder is my frontend folder.
 
 
 >[Deployment link] (https://shopplusplus-ecommerce.onrender.com)
